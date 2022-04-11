@@ -1,0 +1,28 @@
+/* 
+Format penulisan CSS
+selector {
+    property: value;
+    property: value;
+}
+*/
+
+/* Selector Element */
+h1 {
+    color: red;
+    background-color: blue;
+}
+
+/* Selector ID */
+#header {
+    color: red;
+    background-color: blue;
+}
+
+/* Selector Class */
+.teks-biru {
+    color: blue
+}
+
+.artikel h1 {
+    background-color: green;
+}
